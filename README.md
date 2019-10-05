@@ -1,12 +1,10 @@
-# LAB - 
+# LAB - 03 Async
 
-## Project Name
-
-### Author: Student/Group Name
+### Author: Morgan T Shaw
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/morgan-401-advanced-javascript/lab03/pull/1)
+* [travis](https://www.travis-ci.com/morgan-401-advanced-javascript/lab03)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
