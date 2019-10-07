@@ -25,6 +25,7 @@
   "homepage": "https://github.com/morgan-401-advanced-javascript/lab03#readme",
   "dependencies": {
     "eslint": "^6.5.1",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "util": "^0.12.1"
   }
 }
